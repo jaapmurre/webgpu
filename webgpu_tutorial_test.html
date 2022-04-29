@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head><title>Testing webgpu</title>
+
+<script src="numlib.js"></script>
+
+<script>
+
+// Following tutorial https://developers.google.com/web/updates/2019/08/get-started-with-gpu-compute-on-the-web
+async function tutorial() {
+
+    const adapter = await navigator.gpu.requestAdapter();
+    const device = await adapter.requestDevice();
+
+    console.log("Adapter: ",adapter);
+    console.log("Device: ",device);
+
+/* First example
+    // Get a GPU buffer in a mapped state and an arrayBuffer for writing.
+    const [gpuBuffer, arrayBuffer] = device.createBufferMapped({
+        size: 4,
+        usage: GPUBufferUsage.MAP_WRITE
+    });
+
+    // Write bytes to buffer.
+    new Uint8Array(arrayBuffer).set([0, 1, 2, 3]);
+*/
+
+
+    // Get a GPU buffer in a mapped state and an arrayBuffer for writing.
+    const [gpuWriteBuffer, arrayBuffer] = device.createBufferMapped({
+      size: 4,
+      usage: GPUBufferUsage.MAP_WRITE | GPUBufferUsage.COPY_SRC
+    });
+
+    // Write bytes to buffer.
+    new Uint8Array(arrayBuffer).set([0, 1, 2, 3]);
+
+    // Unmap buffer so that it can be used later for copy.
+    gpuWriteBuffer.unmap();
+
+    // Get a GPU buffer for reading in an unmapped state.
+    const gpuReadBuffer = device.createBuffer({
+      size: 4,
+      usage: GPUBufferUsage.COPY_DST | GPUBufferUsage.MAP_READ
+    });
+
+    // Encode commands for copying buffer to buffer.
+    const copyEncoder = device.createCommandEncoder();
+    copyEncoder.copyBufferToBuffer(
+      gpuWriteBuffer /* source buffer */,
+      0 /* source offset */,
+      gpuReadBuffer /* destination buffer */,
+      0 /* destination offset */,
+      4 /* size */
+    );
+
+    // Submit copy commands.
+    const copyCommands = copyEncoder.finish();
+    device.defaultQueue.submit([copyCommands]);
+
+    // Read buffer.
+    const copyArrayBuffer = await gpuReadBuffer.mapReadAsync();
+    console.log(new Uint8Array(copyArrayBuffer));
+
+}
+
+tutorial();
+
+</script>
+
+
+</head>
+<body>
+<h1>Testing webgpu for Walnut 2.0</h1>
+<p>See console for outputs (press F12 on Windows).</p>
+<p>To run this (early 2020), you must use 
+<a href="https://www.google.com/chrome/canary/", target="_blank">Chrome Canary</a> and enable the following flag:</p>
+<pre>chrome://flags/#enable-unsafe-webgpu</pre>
+</body>
+</html>

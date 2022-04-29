@@ -1,0 +1,1180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"testgroup"
+			],
+			[
+				"tot",
+				"totaltested"
+			],
+			[
+				"exp",
+				"expect"
+			],
+			[
+				"tob",
+				"toBeLargerThan"
+			],
+			[
+				"Uint",
+				"UInt32Array"
+			],
+			[
+				"Arary",
+				"ArrayType"
+			],
+			[
+				"gpu",
+				"gpuBufferSecondMatrix"
+			],
+			[
+				"copy",
+				"copyArrayToGPU"
+			],
+			[
+				"resul",
+				"resultMatrixBufferSize"
+			],
+			[
+				"contact",
+				"contactform"
+			],
+			[
+				"gpuB",
+				"gpuBufferSecondMatrix"
+			],
+			[
+				"m",
+				"m_indices"
+			],
+			[
+				"arr",
+				"arrayBuffer"
+			],
+			[
+				"second",
+				"secondMatrix"
+			],
+			[
+				"dict",
+				"dict_array"
+			],
+			[
+				"dic",
+				"dict_array"
+			],
+			[
+				"resultMatrix",
+				"resultMatrixBuffer"
+			],
+			[
+				"glsl",
+				"glslangModule"
+			],
+			[
+				"se",
+				"secondMatrix"
+			],
+			[
+				"first",
+				"firstMatrix"
+			],
+			[
+				"ma",
+				"matrix_multiplication"
+			],
+			[
+				"file",
+				"fileDescriptor"
+			],
+			[
+				"lo",
+				"logString"
+			],
+			[
+				"tim",
+				"timeOfCheck"
+			],
+			[
+				"alert",
+				"alertWarranted"
+			],
+			[
+				"check",
+				"checkOutcome"
+			],
+			[
+				"ch",
+				"checkOutcome"
+			],
+			[
+				"req",
+				"requestDetails"
+			],
+			[
+				"pars",
+				"parsedUrl"
+			],
+			[
+				"pro",
+				"protocol"
+			],
+			[
+				"string",
+				"stringPayload"
+			],
+			[
+				"checks",
+				"checksDeleted"
+			],
+			[
+				"delet",
+				"deletionErrors"
+			],
+			[
+				"che",
+				"checkId"
+			],
+			[
+				"creat",
+				"createRandomString"
+			],
+			[
+				"max",
+				"maxChecks"
+			],
+			[
+				"toke",
+				"tokenData"
+			],
+			[
+				"timeout",
+				"timeoutSeconds"
+			],
+			[
+				"verify",
+				"verifyToken"
+			],
+			[
+				"token",
+				"tokenIsValid"
+			],
+			[
+				"to",
+				"tokenObject"
+			],
+			[
+				"has",
+				"hashedPassword"
+			],
+			[
+				"fil",
+				"fileDescriptor"
+			],
+			[
+				"strin",
+				"stringData"
+			],
+			[
+				"fi",
+				"fileDescriptor"
+			],
+			[
+				"httpsServer",
+				"httpsServerOptions"
+			],
+			[
+				"un",
+				"unifiedServer"
+			],
+			[
+				"en",
+				"environmentToExport"
+			],
+			[
+				"env",
+				"environments"
+			],
+			[
+				"pay",
+				"payloadString"
+			],
+			[
+				"que",
+				"queryStringObject"
+			],
+			[
+				"I",
+				"Izhikevich"
+			],
+			[
+				"is",
+				"isSelfConnection"
+			],
+			[
+				"global",
+				"global_disabled"
+			],
+			[
+				"Simple",
+				"actRuleSimpleHebbian"
+			],
+			[
+				"from",
+				"from_group"
+			],
+			[
+				"conn",
+				"connectionMappingRandom"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"min",
+				"minimumY"
+			],
+			[
+				"nu",
+				"numberOfBarSeries"
+			],
+			[
+				"long",
+				"longdashdotdot"
+			],
+			[
+				"va",
+				"valueToPattern"
+			],
+			[
+				"dash",
+				"dashPatterns"
+			],
+			[
+				"sho",
+				"showConnections"
+			],
+			[
+				"run",
+				"run-length-span"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"text",
+				"text-top\tvertical-align"
+			],
+			[
+				"display",
+				"display-menu"
+			],
+			[
+				"gr",
+				"groups"
+			],
+			[
+				"rule",
+				"ruletotal2"
+			],
+			[
+				"uni",
+				"uniformInt"
+			],
+			[
+				"glob",
+				"global_node_index_end"
+			],
+			[
+				"glo",
+				"global_node_index_start"
+			],
+			[
+				"get",
+				"getGroupSequence"
+			],
+			[
+				"no",
+				"normal_random"
+			],
+			[
+				"C",
+				"ConnectionFunctions"
+			],
+			[
+				"color",
+				"colorbrewer"
+			],
+			[
+				"clear",
+				"clearAllInfo"
+			],
+			[
+				"init",
+				"initEventHandlers"
+			],
+			[
+				"show",
+				"showComponentInfo"
+			],
+			[
+				"nor",
+				"normal_random_dist"
+			],
+			[
+				"local",
+				"local_node_index_end"
+			],
+			[
+				"compo",
+				"component"
+			],
+			[
+				"datade",
+				"datadestination"
+			],
+			[
+				"colorSc",
+				"colorScaleRange"
+			],
+			[
+				"colors_",
+				"colors_neg"
+			],
+			[
+				"colo",
+				"colorScaleNeg"
+			],
+			[
+				"colorScal",
+				"colorScaleSteps"
+			],
+			[
+				"col",
+				"colorScalePosDefault"
+			],
+			[
+				"scal",
+				"scale_neg"
+			],
+			[
+				"styl",
+				"stylesheet_post"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"neg",
+				"negative"
+			],
+			[
+				"color_",
+				"color_array_neg"
+			],
+			[
+				"color_a",
+				"color_array_name"
+			],
+			[
+				"showVar",
+				"showVarScale"
+			],
+			[
+				"neuro",
+				"neuron_width"
+			],
+			[
+				"hid",
+				"hideClamped"
+			],
+			[
+				"selec",
+				"selectedNodeIndex"
+			],
+			[
+				"sel",
+				"selectedNode"
+			],
+			[
+				"node",
+				"node_index"
+			],
+			[
+				"neuro_",
+				"neuron_height"
+			],
+			[
+				"ne",
+				"neuron_height"
+			],
+			[
+				"neuron",
+				"neuron_width"
+			],
+			[
+				"di",
+				"display-var"
+			],
+			[
+				"join",
+				"joinchar"
+			],
+			[
+				"hidd",
+				"hidden_layer"
+			],
+			[
+				"de",
+				"default_node_vars"
+			],
+			[
+				"stat",
+				"state_vars"
+			],
+			[
+				"in",
+				"innodes"
+			],
+			[
+				"crea",
+				"createHippoAmyModel"
+			],
+			[
+				"path",
+				"path_array"
+			],
+			[
+				"ou",
+				"outtracts"
+			],
+			[
+				"prop",
+				"prototype"
+			],
+			[
+				"input",
+				"input_layer"
+			],
+			[
+				"trac",
+				"tractObject"
+			],
+			[
+				"out",
+				"output_layer"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"tex",
+				"texturizeInputData"
+			],
+			[
+				"calcA",
+				"calcActGPUTest"
+			],
+			[
+				"gn",
+				"generateModel"
+			],
+			[
+				"npar",
+				"npars_array"
+			],
+			[
+				"mu",
+				"multiplyResult"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"node_",
+				"node_types"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tests/docs/Manual.html",
+			"settings":
+			{
+				"buffer_size": 19338,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tests/index.html",
+			"settings":
+			{
+				"buffer_size": 6256,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tests/index.js",
+			"settings":
+			{
+				"buffer_size": 5504,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tests/centi_testing_framework.js",
+			"settings":
+			{
+				"buffer_size": 6588,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 77.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: tim",
+				"Snippet: setTimeout function"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 553.0
+	},
+	"console":
+	{
+		"height": 197.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Jaap/stack/js/webgpu",
+		"/C/Users/Jaap/stack/js/webgpu/tests"
+	],
+	"file_history":
+	[
+		"/F/Downloads/showdownjs-showdown-1.9.1-0-g483e51f/showdownjs-showdown-3c120ed/README.md",
+		"/C/Users/Jaap/stack/js/webgpu/tests/README.html",
+		"/C/Users/Jaap/stack/js/webgpu/tests/README.txt",
+		"/F/Downloads/html-docx-js-master/src/templates/mht_part.tpl",
+		"/F/Downloads/html-docx-js-master/src/templates/mht_document.tpl",
+		"/F/Downloads/html-docx-js-master/src/templates/document.tpl",
+		"/F/Downloads/html-docx-js-master/dist/html-docx.js",
+		"/F/Downloads/html-docx-js-master/src/utils.coffee",
+		"/F/Downloads/html-docx-js-master/src/internal.coffee",
+		"/F/Downloads/html-docx-js-master/src/api.coffee",
+		"/C/Users/PC/AppData/Local/Temp/scp23276/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/nn_app.js",
+		"/C/Users/PC/AppData/Local/Temp/scp24870/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/nngpu.js",
+		"/C/Users/Jaap/stack/js/models/spikingnn/izhikevich.js",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/src/paradigm.js",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/demos/hopfield.html",
+		"/C/Users/Jaap/stack/js/webgpu/README.md",
+		"/C/Users/Jaap/stack/js/webgpu/tests/centi_testing_framework.js",
+		"/C/Users/Jaap/stack/js/webgpu/tests/index.js",
+		"/C/Users/Jaap/stack/js/webgpu/tests/index.html",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/test/architecture.test.js",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/test/paradigm.test.js",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/test/jest.config.js",
+		"/C/Users/Jaap/stack/js/webgpu/tests/simple_test_framework.js",
+		"/C/Users/PC/AppData/Local/Temp/scp51796/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/nngpu_20200218.js",
+		"/C/Users/Jaap/stack/js/webgpu/glslang/dist/web-devel/glslang.onefile.js",
+		"/C/Users/Jaap/stack/js/webgpu/glslang/dist/web-devel/glslang.js",
+		"/C/Users/Jaap/stack/js/webgpu/glslang/dist/web-devel-nocompute/glslang.js",
+		"/C/Users/Jaap/stack/Personal/Dela/__ Moods/Dela Moods 20200213.txt",
+		"/C/Users/PC/AppData/Local/Temp/scp01191/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/nn_app.js",
+		"/C/Users/PC/AppData/Local/Temp/scp01634/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/nngpu_test.html",
+		"/C/Users/PC/AppData/Local/Temp/scp46086/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/nngpu.js",
+		"/C/Users/PC/AppData/Local/Temp/scp39505/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/numlib.js",
+		"/C/Users/PC/AppData/Local/Temp/scp05707/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/app.js",
+		"/C/Users/PC/AppData/Local/Temp/scp05285/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/app.js",
+		"/C/Users/PC/AppData/Local/Temp/scp05564/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/numlib.js",
+		"/C/Users/PC/AppData/Local/Temp/scp19869/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/webgpu_numlib_test.html",
+		"/C/Users/PC/AppData/Local/Temp/scp01530/seniorendoenmee.nl/public_html/index.html",
+		"/F/Downloads/Rapid/css/scss-files.txt",
+		"/F/Downloads/Rapid/js/main.js",
+		"/F/Downloads/Rapid/Readme.txt",
+		"/F/Downloads/Rapid/contactform/contactform.js",
+		"/F/Downloads/Rapid/contactform/Readme.txt",
+		"/F/Downloads/gpuweb-master/design/UsageValidationRules.md",
+		"/F/Downloads/gpuweb-master/design/CommandSubmission.md",
+		"/F/Downloads/gpuweb-master/samples/hello-cube.html",
+		"/F/Downloads/gpuweb-master/design/TimelineFences.md",
+		"/F/Downloads/gpuweb-master/design/BufferOperations.md",
+		"/F/Downloads/gpuweb-master/spec/README.md",
+		"/C/Users/PC/AppData/Local/Temp/scp56103/andinorms.nl/system/user/templates/andi/norms.group/process.html",
+		"/C/Users/PC/AppData/Local/Temp/scp58870/andinorms.nl/system/user/templates/andi/norms.group/index.html",
+		"/C/Users/PC/AppData/Local/Temp/scp09584/andinorms.nl/system/user/templates/andi/norms.group/.archive/index_20191101.html",
+		"/C/Users/PC/AppData/Local/Temp/scp09630/andinorms.nl/system/user/templates/andi/norms.group/.archive/get_tests.html",
+		"/C/Users/PC/AppData/Local/Temp/scp08003/andinorms.nl/system/user/templates/andi/norms.group/.archive/_get_tests_20191031.html",
+		"/C/Users/PC/AppData/Local/Temp/scp57818/andinorms.nl/system/user/templates/andi/norms.group/get_tests.html",
+		"/C/Users/PC/AppData/Local/Temp/scp00733/andinorms.nl/system/user/templates/andi/norms.group/.archive/_get_tests.html",
+		"/C/Users/PC/AppData/Local/Temp/scp48074/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/numlib.js",
+		"/C/Users/Jaap/AppData/Local/Temp/scp40389/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/numlib.js",
+		"/C/Users/Jaap/AppData/Local/Temp/scp40773/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/app.js",
+		"/C/Users/Jaap/stack/js/webgpu/README.txt",
+		"/C/Users/Jaap/stack/js/webgpu/.archive/numlib_20200206.js",
+		"/C/Users/Jaap/stack/js/es6_template_tests_2.html",
+		"/C/Users/Jaap/AppData/Local/Temp/scp50324/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/webgpu_numlib_test.html",
+		"/C/Users/Jaap/AppData/Local/Temp/scp44529/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/app.js",
+		"/C/Users/Jaap/AppData/Local/Temp/scp30807/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/numlib.js",
+		"/C/Users/Jaap/stack/js/webassembly/README.txt",
+		"/C/Users/Jaap/stack/js/webassembly/index.js",
+		"/C/Users/Jaap/stack/js/webassembly/assembly/index.ts",
+		"/C/Users/Jaap/stack/js/test_webassembly.js",
+		"/C/Users/Jaap/stack/js/test_webassymbly.js",
+		"/C/Users/Jaap/stack/js/webassembly/package.json",
+		"/C/Users/Jaap/stack/js/webassembly/assembly/tsconfig.json",
+		"/C/Users/Jaap/stack/js/webgpu/glslang/tests/web.html",
+		"/C/Users/Jaap/AppData/Local/Temp/scp47983/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/app.js",
+		"/C/Users/Jaap/AppData/Local/Temp/scp45148/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/webgpu_numlib_test.html",
+		"/C/Users/Jaap/AppData/Local/Temp/scp19518/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/matrix.js",
+		"/C/Users/Jaap/AppData/Local/Temp/scp17025/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/numlib.js",
+		"/C/Users/Jaap/AppData/Local/Temp/scp45486/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/numlib.js",
+		"/C/Users/Jaap/stack/js/webgpu/glslang/tests/helper.mjs",
+		"/C/Users/Jaap/AppData/Local/Temp/scp03087/var/www/vhosts/scripting.neurotask.com/public_html/assets/js/neurotask/webgpu/numlib.mjs",
+		"/C/Users/Jaap/stack/js/webgpu/index.js",
+		"/C/Users/Jaap/stack/js/webgpu/webgpu_numlib_test.html",
+		"/C/Users/Jaap/stack/js/webgpu/numlib.js",
+		"/C/Users/Jaap/stack/js/webgpu/glslang/README.md",
+		"/C/Users/Jaap/stack/js/webgpu/webgpu_test.html",
+		"/C/Users/Jaap/stack/js/webgpu/numlib_demo.js",
+		"/C/Users/Jaap/stack/js/webgpu/matrix_multiplication.js",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/index.js",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/lib/workers.js",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/lib/logs.js",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/lib/handlers.js",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/lib/data.js",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/lib/server.js",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/lib/helpers.js",
+		"/C/python27_apps/Tello-Python/Single_Tello_Test/tello_test.py",
+		"/C/python27_apps/Tello-Python/Single_Tello_Test/tello.py",
+		"/C/python27_apps/Tello-Python/TelloPython_FAQ.txt",
+		"/C/python27_apps/Tello-Python/tello_state.py",
+		"/C/python27_apps/Tello-Python/Single_Tello_Test/README.md",
+		"/C/python27_apps/Tello-Python/Single_Tello_Test/command.txt",
+		"/C/python27_apps/Tello-Python/Single_Tello_Test/stats.py",
+		"/C/python27_apps/Tello-Python/Tello_Video/README.md",
+		"/C/Users/Jaap/stack/Academic Topics/_ Ideas/SuperPlay/superplay.html",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/.data/checks/x4l7acpaun6nihzfpjza.json",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/.data/users/0651819270.json",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/.logs/x4l7acpaun6nihzfpjza.log",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/.data/checks/99rg957rx03ywwha66nw.json",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/lib/config.js",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/.data/tokens/or2qkwmcjt1hg2rn2uep.json",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/.data/checks/fsc04gjjp33lysot8eos.json",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/.data/checks/3fxlxdrt0t0hily8pnzx.json",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/.data/tokens/u26yoo0x84hv5ir9gis6.json",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/config.js",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/.data/test/jantje.json",
+		"/C/Users/Jaap/stack/js/node_masterclass/rest_project/https/generate_with_this.txt",
+		"/C/Users/Jaap/stack/js/walnutjs/walnutjs/walnut.js",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/notes/Walnut 2 Note - January 2020.txt",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/src/display.js",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/src/architecture.js",
+		"/C/Users/Jaap/stack/js/models/spikingnn/plot.js",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/paradigms/hopfield_bipolar.js",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/libs/colorbrewer.js",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/demos/AmyCon Display.html",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/paradigms/izhikevich.js",
+		"/C/Users/Jaap/stack/js/walnut.js 2.0/dist/main.js",
+		"/C/Users/PC/AppData/Local/Temp/scp47830/andinorms.nl/system/user/templates/andi/norms.group/get_tests.html",
+		"/C/Users/PC/AppData/Local/Temp/scp42343/andinorms.nl/system/user/templates/andi/norms.group/_show.js",
+		"/C/Users/PC/AppData/Local/Temp/scp21680/andinorms.nl/system/user/templates/andi/norms.group/index.html",
+		"/C/Users/PC/AppData/Local/Temp/scp04479/andinorms.nl/system/user/templates/andi/norms.group/data/.version2.0.4/_README.txt"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			"C:\\Users\\Jaap\\stack\\js\\walnut.js 2.0\\demos,C:\\Users\\Jaap\\stack\\js\\minichar.js",
+			"C:\\Users\\Jaap\\stack\\js\\walnut.js 2.0\\demos,C:\\Users\\Jaap\\stack\\js\\walnut.js 2.0\\src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"eval'ed",
+			"mock",
+			", \"",
+			"__exp",
+			"msg",
+			"exp",
+			"readGPUBuffer",
+			"netSubcycle",
+			"bindGroup",
+			"weight_strongest_excitatory",
+			"arrayBufferFirstMatrix",
+			"adapter",
+			"this.this.device",
+			"device",
+			"str",
+			"updateTransformArray",
+			"include",
+			"gpu",
+			"unpack_matrix",
+			"debug.log",
+			"console.log",
+			"foreach",
+			"showUnivariateGraph",
+			"lines-graph",
+			"{embed=",
+			"plot_graph",
+			"lines-graph",
+			"\"mp\"",
+			"exists",
+			"category_short_name",
+			"hideClamped",
+			"clamp",
+			"spike",
+			"actarray",
+			"self",
+			"du",
+			"spiketimes",
+			"this.",
+			"y:",
+			"x:",
+			"integrate",
+			"showVarText",
+			"selectedNodeIndex",
+			"showConnections",
+			"display-var",
+			"connect",
+			"updateAlgorithm",
+			"setVar",
+			"actRuleSimpleHebbian",
+			"hitregions",
+			"getConnection",
+			"file_in_qu",
+			"$style",
+			"---",
+			"root",
+			" card",
+			"weather-card",
+			" card",
+			"weather-card",
+			"/images",
+			"add.svg",
+			"images",
+			"'",
+			"updateRule",
+			"jest",
+			"Walnut",
+			"maximumX",
+			"margin",
+			"showFill",
+			"bottom",
+			"nodeaction",
+			"showVar",
+			"initDOMEventHandlers",
+			"component",
+			"holder",
+			"updateRule",
+			".log",
+			"uniformInt",
+			"updateSe",
+			"clamp",
+			"this.model",
+			"updateNet(",
+			"getModel(",
+			"normal_random_dist",
+			"fillSe",
+			"act_and_error_sweep",
+			"som_update",
+			"string|",
+			"showTractInfo",
+			"model",
+			"getConnection",
+			"selectedNodeIndex",
+			"this.ctx",
+			"this.",
+			"onRegionHit",
+			"showTractInfo",
+			"showComponentInfo",
+			"hopfield",
+			"this.cy",
+			"hideVarScale",
+			"canvas",
+			"colorScaleRange",
+			"colorScaleSteps",
+			"colorScalePos",
+			"colorScaleNeg",
+			"colorScaleRangeDefault",
+			"colorScaleStepsDefault",
+			"colorScalePosDefault",
+			"colorScaleNegDefault",
+			"selectedGroup",
+			"selectedNodeIndex",
+			"nodeAction",
+			"showConnections",
+			"hideDisabled",
+			"hideClamped",
+			"hideVarScale",
+			"showVarText",
+			"showVar",
+			"ctx",
+			"layer",
+			"cy",
+			"DataT",
+			"Home",
+			"color",
+			"uniform_random_min_max",
+			"global_act",
+			"global_net",
+			"flatsize"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"eval'd",
+			"wrap",
+			" - ",
+			"__msg",
+			"__exp",
+			"this.device",
+			"GPU",
+			"debug",
+			"debug.log",
+			"",
+			"card",
+			"\"",
+			"showArea",
+			"display.",
+			"model",
+			"display.cy",
+			"this.hideVarScale",
+			"this.canvas",
+			"this.colorScaleRange",
+			"this.colorScaleSteps",
+			"this.colorScalePos",
+			"this.colorScaleNeg",
+			"this.colorScaleRangeDefault",
+			"this.colorScaleStepsDefault",
+			"this.colorScalePosDefault",
+			"this.colorScaleNegDefault",
+			"this.selectedGroup",
+			"this.selectedNodeIndex",
+			"this.nodeAction",
+			"this.showConnections",
+			"this.hideDisabled",
+			"this.hideClamped",
+			"this.showVarText",
+			"this.showVar",
+			"this.ctx",
+			"this.layer",
+			"this.cy",
+			"destination",
+			"Destination",
+			"destination",
+			"pos",
+			"conns",
+			"variables",
+			"state_vars",
+			"ConnectionFunctions",
+			"WeightFunctions",
+			"weight",
+			"WeightFunctions",
+			"hopfield",
+			"hop",
+			"prox",
+			"entorhinal",
+			"",
+			"me",
+			"current model",
+			"@returns",
+			"Group",
+			"neurontypes",
+			"neurontype",
+			"a",
+			"act",
+			"this_a",
+			"neuron",
+			"'u'",
+			"'f'",
+			"true",
+			"false",
+			"saveToFile"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tests/docs/Manual.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2786,
+								2786
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/MultiMarkdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 794.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tests/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3405,
+								3405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2150.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "tests/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "tests/centi_testing_framework.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2346,
+								2346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webgpu.sublime-project",
+	"replace":
+	{
+		"height": 73.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
